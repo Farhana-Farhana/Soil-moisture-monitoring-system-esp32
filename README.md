@@ -116,6 +116,12 @@ void loop() {
 
 ---
 
+## 📸 Soil Moisture Output on the Serial monitor
+
+![Soil Moisture Output on the Serial Window](output.png)
+
+---
+
 ## 📚 Learning Outcomes
 
 * Analog sensor interfacing
