@@ -112,15 +112,15 @@ void loop() {
 
 ## 📸 Wiring Diagram
 
-<p align="leftr">
+<p align="center">
   <img src="circuit.png" width="400"/>
 </p>
 
 ---
 
-## 📸 Serial monitor Readings
+## 📸 Serial monitor Reading
 
-<p align="left">
+<p align="center">
   <img src="output.png" width="400"/>
 </p>
 
