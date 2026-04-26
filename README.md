@@ -1,4 +1,4 @@
-# 🌱 Soil Moisture Monitoring System using ESP32
+# 🌱 Soil Moisture Monitoring System (ESP32)
 
 This project implements a **soil moisture monitoring system** using a soil moisture sensor and ESP32 DevKit V1. It measures the water content in soil and provides real-time data for irrigation decisions.This system is useful for **smart agriculture and plant monitoring applications**.
 
