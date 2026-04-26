@@ -112,13 +112,17 @@ void loop() {
 
 ## 📸 Wiring Diagram
 
-![Wiring Diagram](circuit.png)
+<p align="center">
+  <img src="circuit.png" width="400"/>
+</p>
 
 ---
 
 ## 📸 Soil Moisture Output on the Serial monitor
 
-![Soil Moisture Output on the Serial Window](output.png)
+<p align="center">
+  <img src="output.png" width="400"/>
+</p>
 
 ---
 
